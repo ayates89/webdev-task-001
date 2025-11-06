@@ -1,0 +1,14 @@
+
+h1{
+    background-color: azure;
+    color:rgb(70, 102, 130);
+    font-size: 50px;
+    text-align: center;
+    letter-spacing: 0.1cm ;
+}
+body {
+    background-color:rgba(236, 148, 196, 0.311);
+    color:rgb(3, 0, 8);
+    font-size: 20px;
+    line-height: 3em;
+}
